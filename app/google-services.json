@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "368061267649",
+    "project_id": "redho-3346e",
+    "storage_bucket": "redho-3346e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368061267649:android:f8d658a118dde82248de40",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368061267649-v8s48uvmf6lhcb2luueh0uk5ee5nskfd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "39ca52155ef505f8216c9e3be3549c067e65a4d0"
+          }
+        },
+        {
+          "client_id": "368061267649-ggpsph5qkq87gp2720kp2tu2bkdap3jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgx3Ev5_xU-3KAu_rbAj32gK_P_ivAH4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368061267649-ggpsph5qkq87gp2720kp2tu2bkdap3jf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
